@@ -157,3 +157,6 @@ build-iPhoneSimulator/
 # .rubocop-https?--*
 
 # End of https://www.toptal.com/developers/gitignore/api/ruby,rails,macos
+
+# rbs collection による型定義
+/.gem_rbs_collection/
